@@ -24,3 +24,7 @@ The **Student Registration Management System** is a Java-based application desig
    ```bash
    git clone https://github.com/yourusername/student-registration-system.git
    cd student-registration-system
+
+   javac -cp .:mysql-connector-java-8.0.23.jar Main.java
+java -cp .:mysql-connector-java-8.0.23.jar Main
+

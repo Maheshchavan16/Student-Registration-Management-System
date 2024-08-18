@@ -1,0 +1,9 @@
+<!-- Add a button to enroll in a course -->
+<TableColumn prefWidth="100">
+    <cellValueFactory>
+        <!-- Cell value factory for enrolling button -->
+    </cellValueFactory>
+    <cellFactory>
+        <!-- Cell factory for enrolling button -->
+    </cellFactory>
+</TableColumn>

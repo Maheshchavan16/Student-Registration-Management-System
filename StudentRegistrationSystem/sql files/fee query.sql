@@ -1,0 +1,9 @@
+txtfno
+txtadmissionfee
+txtexamfee
+txttutionfee
+txttpkg
+txtadvance
+txtremainingfee
+txttinstallments
+txtin1,2,3,4,5,6
